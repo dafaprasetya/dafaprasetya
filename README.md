@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## Ngoding sampe mampus
+# Seleranya hallo dek apalah daya aku cuman hello world
 
 <!--
 **dafaprasetya/dafaprasetya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
