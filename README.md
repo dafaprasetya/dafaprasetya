@@ -3,6 +3,11 @@
 ## Ngoding sampe mampus
 # Seleranya hallo dek apalah daya aku cuman hello world
 
+<p align="center">
+  <img src="https://media.giphy.com/media/EETZoyWldXgJ2/giphy.gif" alt="Naruto GIF">
+</p>
+
+
 <!--
 **dafaprasetya/dafaprasetya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
