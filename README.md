@@ -6,6 +6,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/EETZoyWldXgJ2/giphy.gif" alt="Naruto GIF">
 </p>
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dafaprasetya&show_icons=true&count_private=true" alt="GitHub stats" />
+</p>
 
 
 <!--
