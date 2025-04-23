@@ -10,7 +10,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dafaprasetya&show_icons=true&count_private=true" alt="GitHub stats" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafaprasetya&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dafaprasetya&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dafaprasetya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 
 <!--
