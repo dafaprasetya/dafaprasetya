@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-## Ngoding sampe mampus
-# Seleranya hallo dek apalah daya aku cuman hello world
-
 <p align="center">
   <img src="https://media.giphy.com/media/EETZoyWldXgJ2/giphy.gif" alt="Naruto GIF">
 </p>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dafaprasetya&show_icons=true&count_private=true" alt="GitHub stats" />
 </p>
@@ -22,11 +18,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dafaprasetya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dafaprasetya" />
 </p>
 
+
+# jangan dongo ya kawan kawan
 <!--
 **dafaprasetya/dafaprasetya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
