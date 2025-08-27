@@ -2028,3 +2028,37 @@ body.loaded:after {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+.mimage{
+  width: 8%;
+}
+@media (max-width: 1199.98px) {
+  .mimage {
+    width: 10%;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .mimage {
+    width: 10%;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .mimage {
+    width: 10%;
+  }
+}
+
+@media (max-width: 992px) {
+  .mimage {
+    width: 10%;
+  }
+}
+
+@media (max-width: 1200px) {
+  .mimage {
+    width: 10%;
+  }
+}
