@@ -42,8 +42,9 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dafaprasetya&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafaprasetya&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="180" />
+  <a href="https://github.com/dafaprasetya">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dafaprasetya&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub Dafa" />
+  </a>
 </p>
 
 <p align="center">
