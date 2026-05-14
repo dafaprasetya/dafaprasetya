@@ -52,6 +52,10 @@
   [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
 </div>
 
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes" />
+</p>
+
 ---
 
 ### Get In Touch
@@ -60,11 +64,8 @@
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://ko-fi.com/dafaprasetya"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
 </p>
-
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes" />
-</p>
-
-<p align="right">
   <img src="https://komarev.com/ghpvc/?username=dafaprasetya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+
