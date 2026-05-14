@@ -1,4 +1,4 @@
-# Hello, prstya here!
+# Hi there, I'm Prstya! 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/EETZoyWldXgJ2/giphy.gif" width="300" alt="Naruto GIF">
@@ -20,14 +20,22 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ My Toolbox
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,python,js,laravel,nodejs,flutter,html,css,linux,docker,cloudflare,ae,ps&theme=dark" />
+  </a>
+</p>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
-| **Networking** | ![MikroTik](https://img.shields.io/badge/MikroTik-EE1F25?style=flat-square&logo=mikrotik&logoColor=white) |
+---
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dafaprasetya/dafaprasetya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dafaprasetya/dafaprasetya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dafaprasetya/dafaprasetya/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ---
 
@@ -42,16 +50,22 @@
   <img src="https://streak-stats.demolab.com?user=dafaprasetya&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+---
+
+### 🎵 Listening to...
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dafaprasetya&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
+  <a href="https://github-readme-spotify.vercel.app/api/spotify">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
 </p>
 
 ---
 
 ### 💬 Get In Touch
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashraprstya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:m.dafaprasetya@prstya.my.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/dafaprasetya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ko-fi.com/dafaprasetya"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
 </p>
 
 <p align="center">
