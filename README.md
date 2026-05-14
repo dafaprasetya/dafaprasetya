@@ -29,17 +29,14 @@
 
 ---
 
-### 🐍 Contribution Snake
+## Widget Bagus
+
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dafaprasetya/dafaprasetya/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dafaprasetya/dafaprasetya/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dafaprasetya/dafaprasetya/output/github-contribution-grid-snake.svg">
 </picture>
-
-
----
-
-### 📊 GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/dafaprasetya">
@@ -51,16 +48,13 @@
   <img src="https://streak-stats.demolab.com?user=dafaprasetya&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
----
-
-### 🎵 Listening to...
 &nbsp;<div align="center">
   [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
 </div>
 
 ---
 
-### 💬 Get In Touch
+### Get In Touch
 <p align="center">
   <a href="https://linkedin.com/in/dafaprasetya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
