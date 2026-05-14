@@ -53,11 +53,9 @@
 ---
 
 ### 🎵 Listening to...
-<p align="center">
-  <a href="https://github-readme-spotify.vercel.app/api/spotify">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify Now Playing" />
-  </a>
-</p>
+&nbsp;<div align="center">
+  [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
+</div>
 
 ---
 
