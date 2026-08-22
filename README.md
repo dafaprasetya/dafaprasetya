@@ -12,14 +12,6 @@
 
 ---
 
-### 💫 About Me
-- 🔭 **Currently working on:** A robust Multi-tenant Point of Sale (POS) system.
-- 🌱 **Currently learning:** Advanced DevOps with Docker & FrankenPHP, and refining my skills in Laravel 12.
-- ⚡ **Fun fact:** I balance the world of financial logic (Accounting) with the complexity of code (Information Systems).
-- 🏍️ **Interests:** When I'm not coding, you'll probably find me admiring Ducati's engineering or working on creative video edits (please ducati hire me).
-
----
-
 ### 🛠️ My Toolbox
 <p align="left">
   <a href="https://skillicons.dev">
