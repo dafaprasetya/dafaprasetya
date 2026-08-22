@@ -9,10 +9,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Fullstack+Engineer;Accounting+%26+IS+Student;DevOps+Enthusiast;Network+Engineer" alt="Typing SVG" />
   </a>
 </p>
-
----
-
-### 🛠️ My Toolbox
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,python,js,laravel,nodejs,flutter,html,css,linux,docker,cloudflare,ae,ps&theme=dark" />
