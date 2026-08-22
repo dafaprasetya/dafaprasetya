@@ -11,7 +11,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,js,laravel,nodejs,flutter,html,css,linux,docker,cloudflare,ae,ps&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=php,python,js,laravel,nodejs,flutter,html,css,linux,docker,cloudflare,ae,ps,pr,ai&theme=dark" />
   </a>
 </p>
 
